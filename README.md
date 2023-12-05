@@ -4,7 +4,7 @@ Hyperloop is a proposed high-speed transportation system for both public and goo
 
 ## Concept and Principles
 
-Hyperloop utilizes a system of pressurized tubes, suspended above the ground or underground, to propel pods carrying passengers or cargo at speeds of up to 700 mph. The vacuum environment within the tubes dramatically reduces air resistance, allowing the pods to travel with minimal drag. Power for the pods is provided by linear electric motors or magnetic levitation systems.
+The basic principle of Hyperloop is magnetic levitation. It utilizes a system of pressurized tubes, suspended above the ground or underground, to propel pods carrying passengers or cargo at speeds of up to 700 mph. The vacuum environment within the tubes dramatically reduces air resistance, allowing the pods to travel with minimal drag. Power for the pods is provided by linear electric motors or magnetic levitation systems.
 
 ## Potential Advantages
 
