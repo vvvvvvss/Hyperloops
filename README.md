@@ -10,10 +10,10 @@ The basic principle of Hyperloop is magnetic levitation. It utilizes a system of
 
 Hyperloop offers several potential advantages over traditional modes of transportation, including:
 
-### Superior Speed:
+##### Superior Speed:
 Hyperloop could revolutionize transportation by enabling travel of over 700 mph, significantly faster than high-speed trains or airplanes.
 
-### Reduced Environmental Impact: 
+##### Reduced Environmental Impact: 
 Hyperloop's low energy consumption and minimal air pollution could make it a more environmentally friendly option than conventional transportation systems.
 
 ### Increased Capacity: 
