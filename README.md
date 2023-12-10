@@ -58,6 +58,18 @@ Plans are being developed to link the two cities with a Hyperloop
 ### Mexico City and Guadalajara: 
 Hope to be one of the first to showcase the new technology
 
+## Potential disadvantages 
+### Safety: 
+The high speeds and forces when cornering or changing speed can be dangerous. If the vacuum is lost, the vehicles could stop very quickly.
+### Space: 
+The train has limited space, so people can't move around freely.
+### Construction and maintenance costs: 
+Construction costs are high and maintenance costs may increase.
+### Track: 
+The steel tracks can expand and change shape when the temperature changes, which could destroy the track.
+### Passenger safety: 
+Passengers may feel dizzy due to vibration and jostling.
+
 ## Additional interesting facts:
 
 Hyperloops are immune to weather conditions such as wind, rain, and snow.
