@@ -51,9 +51,12 @@ A joint venture between Virgin Group and Hyperloop One, focusing on building com
 Elon Musk's tunneling company, conducting research and development on hyperloop technology.
 
 ## Some countries that are developing hyperloop include: 
-India: The Avishkar Hyperloop team has successfully tested a prototype pod and is working on a full-scale pod that can reach speeds of up to 1,200 km/h
-Dubai and Abu Dhabi: Plans are being developed to link the two cities with a hyperloop
-Mexico City and Guadalajara: Hope to be one of the first to showcase the new technology
+### India: 
+The Avishkar Hyperloop team has successfully tested a prototype pod and is working on a full-scale pod that can reach speeds of up to 1,200 km/h
+### Dubai and Abu Dhabi: 
+Plans are being developed to link the two cities with a Hyperloop
+### Mexico City and Guadalajara: 
+Hope to be one of the first to showcase the new technology
 
 ## Additional interesting facts:
 
