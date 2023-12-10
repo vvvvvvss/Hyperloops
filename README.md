@@ -6,6 +6,17 @@ Hyperloop is a proposed high-speed transportation system for both public and goo
 
 The basic principle of Hyperloop is magnetic levitation. It utilizes a system of pressurized tubes, suspended above the ground or underground, to propel pods carrying passengers or cargo at speeds of up to 700 mph. The vacuum environment within the tubes dramatically reduces air resistance, allowing the pods to travel with minimal drag. Power for the pods is provided by linear electric motors or magnetic levitation systems.
 
+## Hyperloop systems are made up of: 
+
+### Tubes: 
+Sealed and partially evacuated tubes that connect mobility hubs in large metropolitan areas
+
+### Pods: 
+Pressurized vehicles that move at high speeds
+
+### Magnetic levitation: 
+A principle that suspends and propels a vehicle on a guidance track made with magnets
+
 ## Potential Advantages
 
 Hyperloop offers several potential advantages over traditional modes of transportation, including:
@@ -15,26 +26,16 @@ Hyperloop could revolutionize transportation by enabling travel of over 700 mph,
 
 
 ### 2.Reduced Environmental Impact: 
-Hyperloop's low energy consumption and minimal air pollution could make it a more environmentally friendly option than conventional transportation systems.
+Hyperloop's low energy consumption and minimal air pollution could make it a more environmentally friendly option than conventional transportation systems.  In some cases, hyperloop could save up to 20% of energy used per passenger mile compared to other modes of travel. 
 
 ### 3.Increased Capacity: 
 Hyperloop pods are designed to carry large numbers of passengers or cargo, potentially alleviating congestion on existing transportation networks.
 
 ### 4. Flexibility and Connectivity: 
-Hyperloop pods could operate on various routes, connecting cities across long distances and providing seamless travel between different transportation hubs.
+Hyperloop pods could operate on various routes, connecting cities across long distances and providing seamless travel between different transportation hubs. Another reason why Hyperloop systems are flexible is  because they can move pods in groups or independently.
 
-### 5.Challenges and Advancements
-
-Despite its promising potential, several challenges remain in realizing the full potential of hyperloop:
-
-### 6.Technical Hurdles: 
+### 5.Technical Hurdles: 
 Developing and maintaining the vacuum environment within the tubes, ensuring the safety of passengers and the stability of the pods, and overcoming engineering challenges associated with levitation and propulsion systems are significant hurdles.
-
-### 7.Economic Viability: 
-Constructing and operating hyperloop infrastructure is expected to be costly, requiring substantial investment and careful cost-benefit analysis to ensure economic viability.
-
-### 8.Regulatory Framework: 
-Establishing a comprehensive regulatory framework to govern hyperloop operations, safety standards, and passenger rights is essential for widespread adoption.
 
 ## Current Progress and Ongoing Development
 
@@ -48,6 +49,11 @@ A joint venture between Virgin Group and Hyperloop One, focusing on building com
 
 ### 3.TBC (The Boring Company): 
 Elon Musk's tunneling company, conducting research and development on hyperloop technology.
+
+## Some countries that are developing hyperloop include: 
+India: The Avishkar Hyperloop team has successfully tested a prototype pod and is working on a full-scale pod that can reach speeds of up to 1,200 km/h
+Dubai and Abu Dhabi: Plans are being developed to link the two cities with a hyperloop
+Mexico City and Guadalajara: Hope to be one of the first to showcase the new technology
 
 ## Additional interesting facts:
 
